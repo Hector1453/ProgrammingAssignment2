@@ -1,4 +1,4 @@
-## There two functions in this file. Combined properly,
+## There are two functions in this file. Combined properly,
 ## they calculate the inverse of a matrix and cache the result.
 
 ## It is assumed that all the matrix used are invertible.
